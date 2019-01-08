@@ -4,11 +4,11 @@ PSWinCom SMS Gateway
 node.js module for sending sms messages through PSWinCom SMS Gateway.
 
 ## Installation
-    ```bash
+```
     $ npm install @redningsselskapet/pswincom-sms-gateway
-    ```
+```
 ## Usage
-    ```javascript
+```javascript
     // import node module
     const SmsGateway = require('@redningsselskapet/pswincom-sms-gateway')
 
@@ -23,4 +23,4 @@ node.js module for sending sms messages through PSWinCom SMS Gateway.
       .catch(err => {
         console.log(err)
       })
-    ```
+```
