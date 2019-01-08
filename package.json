@@ -17,6 +17,6 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/Redningsselskapet/pswincom-gateway.git"
+    "url" : "https://github.com/Redningsselskapet/pswincom-gateway"
   }
 }
